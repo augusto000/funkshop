@@ -11,6 +11,7 @@ html body{
 }
 #contenedor {
     padding: 0;
+    width:87rem;
 }
 
 ul, ol{
