@@ -19,7 +19,7 @@ ul, ol{
 }
 .div-img-funko {
     background-color: #2b2b2b;
-    width: 81rem;
+    width: 82rem;
     height: 9rem;
     margin:0;
     padding:1.5rem;
@@ -65,12 +65,9 @@ nav ul{
     margin-left:75rem;    
     font-size: 0.9rem;
 }
-
-
  ul a{
     text-decoration: none;
     color:white;
-    
 }
 div aside{
     display: inline-block;
@@ -87,8 +84,9 @@ div aside{
 
 section{
     margin-top:0.5rem;
-    margin-left: 400px;
+    margin-left: 24rem;
     width: auto;
+    
     
 }
 /* trooper*/
@@ -103,25 +101,26 @@ section{
     height: 220px;
     width: 220px;
 }
-.title-img{
-    font-size: 12px;
+.title-img-trooper{
+    
+    font-size: 0.8rem;
     font-family: 'Raleway', sans-serif;
+    width: 5rem;
 }
 section div .name-toy{
-   font-size: 14px; 
-   margin-top: -5px;
-   
+    font-size: 1rem; 
+    width: 13rem;   
 }
 .price-toy{
-    font-size: 12px;
-    margin-top: -7px;
+    width: 4rem;
+    font-size: 0.8rem;    
 }
 .cuotas-toy{
-    margin-top: -18px;
-   
+    width: max-content;   
 }
 .cuotas-toy a{
-    font-size: 8px;
+    font-size: 0.8rem;
+    color: blue;
     text-decoration: none;
 }
 .div-img input{
@@ -154,7 +153,7 @@ section div .name-toy{
     border: 0;
 }
 .div-img-pidgeotto .title-img{
-    font-size: 12px;
+    font-size: 0.8rem;
     font-family: 'Raleway', sans-serif;
     margin-top: 11.5px;
 }
@@ -164,13 +163,11 @@ section div .name-toy{
     margin-top: -1px;        
  }
 /* luna */
- .div-img-luna{
-    
+ .div-img-luna{    
     margin-left: 36rem;
     margin-top: -21rem;
     height: 21rem;
-    width: 14rem;
-    
+    width: 14rem;    
  }
   .div-img-luna input{
     background-color: red;
@@ -205,18 +202,16 @@ section div .name-toy{
 
 /* luna 2 */
 .div-img-luna2{
-    outline: 1px solid red;
     margin-left: -6rem;
     margin-top: 6rem;
     height: 21rem;
-    width: 0;
-    
+    width: 15rem;    
  }
   .div-img-luna2 input{
     font-weight: normal;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 12px;
-    margin-left:170px;
+    font-size: 0.8rem;
+    margin-left:11rem;
     margin-top: 0px;
     color: white;
     border:0;
@@ -315,17 +310,16 @@ section div .name-toy{
     margin-left: 160px;
     margin-top: -450px;
     color: white;
-    border: 0;
-    
+    border: 0;    
 }
 /* end trooper*/
 
 /* pidgeotto3*/
 .div-img-pidgeotto3{
-    margin-left: 30px;
-    margin-top: 20px;
-    height: 340px;
-    width: 242px; 
+    margin-left: -6rem;
+    margin-top: 5rem;
+    height: max-content;
+    width: 13rem; 
     padding: 0;    
 }
 .div-img-pidgeotto3 input{
@@ -350,10 +344,11 @@ section div .name-toy{
  }
  /* trooper3*/
 .div-img3{
-    margin-left: 330px;
-    margin-top: -340px;
-    height: 340px;
-    width: 242px;
+    outline: 1px solid red;
+    margin-left: 15rem;
+    margin-top: -20.7rem;
+    height: 21rem;
+    width: 13.5rem;
 }
 .div-img3 .img-toy{    
     height: 220px;
@@ -396,10 +391,10 @@ section div .name-toy{
 
 /* luna3 */
 .div-img-luna3{
-    margin-left: 651px;
-    margin-top: -344px;
-    height: 340px;
-    width: 242px;
+    margin-left: 37rem;
+    margin-top: -21.5rem;
+    height: 20rem;
+    width: 14rem;
  }
   .div-img-luna3 input{
     background-color: red;
