@@ -344,7 +344,6 @@ section div .name-toy{
  }
  /* trooper3*/
 .div-img3{
-    outline: 1px solid red;
     margin-left: 15rem;
     margin-top: -20.7rem;
     height: 21rem;
@@ -354,8 +353,7 @@ section div .name-toy{
     height: 220px;
     width: 220px;
     margin-left: 20px;
-    margin-top: 0;
-    
+    margin-top: 0;    
 }
 .div-img3 .title-img{
     font-size: 12px;
