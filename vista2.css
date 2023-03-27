@@ -1,4 +1,4 @@
-*{   
+*{
     box-sizing:border-box;
  }
 html body{
@@ -344,6 +344,7 @@ section div .name-toy{
  }
  /* trooper3*/
 .div-img3{
+    
     margin-left: 15rem;
     margin-top: -20.7rem;
     height: 21rem;
@@ -353,7 +354,8 @@ section div .name-toy{
     height: 220px;
     width: 220px;
     margin-left: 20px;
-    margin-top: 0;    
+    margin-top: 0;
+    
 }
 .div-img3 .title-img{
     font-size: 12px;
@@ -424,3 +426,30 @@ section div .name-toy{
       margin-top: 7px;
       margin-bottom: 4px;
 }
+
+.indice-inferior ul{
+    margin-top: 3rem;
+    margin-left: 10rem;
+    
+}
+.indice-inferior ul li{
+    display: inline-block;
+    width: 1rem;
+    text-align: center;
+    outline: 1px solid gray;    
+    margin: 0.1rem;
+    padding: 0.2rem;
+    font-weight: bolder;
+}
+.flecha-izq{
+    
+    margin-top: 6rem;
+    color:black;
+}
+.flecha-der{
+    
+    margin-top: 6rem;
+    color:black;
+}
+
+    
