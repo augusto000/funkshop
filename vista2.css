@@ -436,18 +436,17 @@ section div .name-toy{
     display: inline-block;
     width: 1rem;
     text-align: center;
-    outline: 1px solid gray;    
+    outline: 0.1rem solid gray;    
     margin: 0.1rem;
     padding: 0.2rem;
     font-weight: bolder;
 }
 .flecha-izq{
-    
     margin-top: 6rem;
-    color:black;
+    color:black;    
+    
 }
 .flecha-der{
-    
     margin-top: 6rem;
     color:black;
 }
