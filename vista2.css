@@ -426,29 +426,40 @@ section div .name-toy{
       margin-top: 7px;
       margin-bottom: 4px;
 }
-
-.indice-inferior ul{
-    margin-top: 3rem;
-    margin-left: 10rem;
-    
+.indice-inferior{
+ display: flex;
+ flex-direction: row;
+ width: 200px;
+ margin-top: 5rem;
+ justify-content: space-evenly;
+ align-items: center;
+ font-weight: bold;
+ 
+ }
+ .indice-inferior a{
+    text-decoration: none;
+    color: black;
+ }
+ .contenedor-flecha{
+    background-color: darkgray;
+    padding: 0.4rem;
+    border-radius: 0.2rem;     
+    width: 1.3rem;
 }
-.indice-inferior ul li{
-    display: inline-block;
-    width: 1rem;
-    text-align: center;
-    outline: 0.1rem solid gray;    
-    margin: 0.1rem;
-    padding: 0.2rem;
+ .fa-solid{
+    color: thistle;
     font-weight: bolder;
 }
-.flecha-izq{
-    margin-top: 6rem;
-    color:black;    
-    
-}
-.flecha-der{
-    margin-top: 6rem;
-    color:black;
-}
+.indice-inferior .contenedor-uno{
+    border-radius: 0.2rem;     
+    outline: 0.06rem solid red;
+    width: 1.2rem;
+    height: 1rem;
+    text-align: center;
+    padding-top: 0.1rem;           
+ }
+ .indice-inferior .contenedor-uno a{
+    color:red;
+ }
 
-    
+ 
